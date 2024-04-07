@@ -1,3 +1,4 @@
 PyInputPlus
 pandas
 jinja2
+matplotlib
