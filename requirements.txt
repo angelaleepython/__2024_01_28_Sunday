@@ -2,3 +2,9 @@ PyInputPlus
 pandas
 jinja2
 matplotlib
+yfinance
+pandas-datareader
+requests
+numpy
+openpyxl
+pydantic
